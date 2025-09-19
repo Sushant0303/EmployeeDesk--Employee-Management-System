@@ -27,6 +27,25 @@ EmployeeDesk is a web-based Employee Management System developed using Spring MV
 
 
 
+⚡ Getting Started
+
+1.Clone the repository:
+git clone https://github.com/Sushant0303/EmployeeDesk--Employee-Management-System.git
+
+2.Import the project into Eclipse IDE as a Maven project.
+
+3.Configure your MySQL database: Update DB credentials in persistence.xml
+
+4.Run the project on Apache Tomcat Server.
+
+5.Access the app in browser: http://localhost:8080/EmployeeDesk/home
+
+
+
+
+
+
+
 
 
 
